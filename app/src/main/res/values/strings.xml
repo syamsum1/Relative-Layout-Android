@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">RelativeLayout_Hisyam_XIIRPL</string>
     <string name="text_hello">Helo world</string>
+    <string name="tittle"><font color = '#000'>Let\'s find </font>\n<font color= '#D07F21'>food</font> near you</string>
+
 
     <string-array name="day_array">
         <item>Monday</item>
